@@ -33,9 +33,9 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="/img/1.jpg" widht="300" height="300"> 
-  <img src="/img/2.jpg" widht="300" height="300"> 
-  <img src="/img/3.jpg" widht="300" height="300"> 
+  <img src="/img/1.png" widht="300" height="300"> 
+  <img src="/img/2.png" widht="300" height="300"> 
+  <img src="/img/3.png" widht="300" height="300"> 
 - 동영상
   [![](./img/그림.png)](https://youtu.be/MyyeyLEyW9c?t=32)
 
