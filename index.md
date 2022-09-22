@@ -37,7 +37,7 @@
   <img src="/img/2.png" widht="300" height="450"> 
   <img src="/img/3.png" widht="300" height="450"> 
 - 동영상
-  [![](./img/그림.png)](https://youtu.be/MyyeyLEyW9c?t=32)
+  [![](./img/4.png)](https://youtu.be/MyyeyLEyW9c?t=32)
 
 <br><br>
 
