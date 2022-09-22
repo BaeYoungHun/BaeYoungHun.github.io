@@ -1,5 +1,5 @@
 # [목차]  
-1.[게임명: Hospital Runner](#프로젝트명-hospital-runner)  
+1.[프로젝트명 : Hospital Runner](#프로젝트명-hospital-runner)  
 2.[메인컨셉 : 공포](#메인컨셉--공포)  
 3.[서브컨셉 : 추격 A.I](#서브-컨셉-1--추격-ai)  
 4.[서브컨셉 : 탈출](#서브-컨셉-2--탈출)  
