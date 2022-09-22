@@ -33,7 +33,9 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지.jpg">
+  <img src="/imgs/1.jpg" widht="300" height="300"> 
+  <img src="/imgs/2.jpg" widht="300" height="300"> 
+  <img src="/imgs/3.jpg" widht="300" height="300"> 
 - 동영상
   [![](./img/그림.png)](https://youtu.be/MyyeyLEyW9c?t=32)
 
