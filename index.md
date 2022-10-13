@@ -123,4 +123,4 @@
 ## 1. 게임 오브젝트 분해
 연번|오브젝트 이름(영문이름)|오브젝트 이미지|
 |:---:|:---:|:---:|
-|1|사람(player)|<img src="./img/noname01.png" widht="300" height="300"> |
+|1|사람(player)|<img src="./img/noname01.png" widht="100" height="100"> |
