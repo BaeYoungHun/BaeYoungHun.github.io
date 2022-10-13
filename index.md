@@ -127,3 +127,4 @@
 |:---:|:---:|:---:|
 |1|사람(player)|<img src="./img/noname01.png" widht="150" height="150">|
 |2|비(rain)|<img src="./img/noname02.png" widht="150" height="150">|
+|3|번개(thunder)|<img src="./img/noname03.png" widht="150" height="150">|
