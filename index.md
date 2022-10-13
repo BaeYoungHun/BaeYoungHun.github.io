@@ -132,7 +132,7 @@
 |3|번개(thunder)|<img src="./img/noname03.png" widht="150" height="150">|  
 |4|밤(night)|<img src="./img/noname04.png" widht="150" height="150">|  
 |5|기록(stopwatch)|<img src="./img/noname05.png" widht="150" height="150">|  
-
+|6|병원(hospital)|<img src="./img/noname06.png" widht="150" height="150">|  
 
  
 |7|핸드폰플래쉬(phone_flash)|<img src="./img/noname07.png" widht="150" height="150">|  
