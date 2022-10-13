@@ -127,7 +127,7 @@
 
 |연번|오브젝트 이름(영문이름)|오브젝트 이미지|
 |:---:|:---:|:---:|  
-|1|사람(Player)|<img src="./img/noname02.png" widht="150" height="150">|  
+|1|사람(Player)|<img src="./img/noname01.png" widht="150" height="150">|  
 |2|비(rain)|<img src="./img/noname02.png" widht="150" height="150">|  
 |3|번개(thunder)|<img src="./img/noname03.png" widht="150" height="150">|  
 |4|밤(night)|<img src="./img/noname04.png" widht="150" height="150">|  
