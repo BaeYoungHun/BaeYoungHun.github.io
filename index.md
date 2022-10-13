@@ -135,9 +135,9 @@
 |6|병원(hospital)|<img src="./img/noname06.png" widht="150" height="150">|  
 |7|핸드폰플래쉬(phone_flash)|<img src="./img/noname07.png" widht="150" height="150">|  
 |8|열쇠 조각(key_piece)|<img src="./img/noname08.png" widht="150" height="150">|  
-
 |9|열 수 있는 문(open_door)|<img src="./img/noname09.png" widht="150" height="150">|  
 |10|열 수 없는 문(closed_door)|<img src="./img/noname10.png" widht="150" height="150">|  
+
 |11|빨라지는 아이템(speed_item)|<img src="./img/noname11.png" widht="150" height="150">|  
 |12|투명해지는 아이템(transpraent_item)|<img src="./img/noname12.png" widht="150" height="150">|  
 |13|귀신1(ghost_1)|<img src="./img/noname13.png" widht="150" height="150">|  
