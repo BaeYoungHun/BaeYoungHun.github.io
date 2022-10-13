@@ -147,4 +147,7 @@
 |18|의자 밑(chair_hide)|<img src="./img/noname18.png" widht="150" height="150">|  
 |19|창문(window)|<img src="./img/noname19.png" widht="150" height="150">|  
 ## 2. 파라미터(속성) 뽑아 보기
-1
+1) 오브젝트 이름: player
+속성|영문 명칭|설명|비고|
+|:---:|:---:|:---:|:---:|
+|속도|player_sp|플레이어 이동속도|  |  
