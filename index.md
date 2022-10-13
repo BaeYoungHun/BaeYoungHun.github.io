@@ -137,7 +137,6 @@
 |8|열쇠 조각(key_piece)|<img src="./img/noname08.png" widht="150" height="150">|  
 |9|열 수 있는 문(open_door)|<img src="./img/noname09.png" widht="150" height="150">|  
 |10|열 수 없는 문(closed_door)|<img src="./img/noname10.png" widht="150" height="150">|  
-
 |11|빨라지는 아이템(speed_item)|<img src="./img/noname11.png" widht="150" height="150">|  
 |12|투명해지는 아이템(transpraent_item)|<img src="./img/noname12.png" widht="150" height="150">|  
 |13|귀신1(ghost_1)|<img src="./img/noname13.png" widht="150" height="150">|  
@@ -146,7 +145,8 @@
 |16|케비넷(cabinet_hide)|<img src="./img/noname16.png" widht="150" height="150">|  
 |17|침대(bed_hide)|<img src="./img/noname17.png" widht="150" height="150">|  
 |18|의자 밑(chair_hide)|<img src="./img/noname18.png" widht="150" height="150">|  
-|19|창문(window)|<img src="./img/noname19.png" widht="150" height="150">|   
+|19|창문(window)|<img src="./img/noname19.png" widht="150" height="150">|  
+
 ## 2. 파라미터(속성) 뽑아 보기
 1) 오브젝트 이름: player  
 
