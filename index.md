@@ -146,7 +146,7 @@
 |16|케비넷(cabinet_hide)|<img src="./img/noname16.png" widht="150" height="150">|  
 |17|침대(bed_hide)|<img src="./img/noname17.png" widht="150" height="150">|  
 |18|의자 밑(chair_hide)|<img src="./img/noname18.png" widht="150" height="150">|  
-|19|창문(window)|<img src="./img/noname19.png" widht="150" height="150">|  
+|19|창문(window)|<img src="./img/noname19.png" widht="150" height="150">|   
 ## 2. 파라미터(속성) 뽑아 보기
 1) 오브젝트 이름: player  
 
@@ -173,8 +173,8 @@
 ## 3. 행동 뽑아 보기
 1) 오브젝트 이름: player  
 
-|행동|영문 명칭|설명|  
-|:---:|:---:|:---:|  
+|행동|영문 명칭|설명|
+|:---:|:---:|:---:|
 |앞으로 이동|front_move|플레이어가 앞으로 이동|
 |뒤로 이동|back_move|플레이어가 앞으로 이동|
 |왼쪽 이동|left_move|플레이어가 앞으로 이동|
