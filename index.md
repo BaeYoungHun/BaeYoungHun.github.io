@@ -138,7 +138,7 @@
 |4|밤(night)|<img src="./img/noname04.png" widht="150" height="150">|  
 |5|기록(stopwatch)|<img src="./img/noname05.png" widht="150" height="150">|  
 |6|병원(hospital)|<img src="./img/noname06.png" widht="150" height="150">|  
-|7|핸드폰플래쉬(phone_flash)|<img src="./img/noname07.png" widht="150" height="150">|  
+|7|핸드폰플래시(phone_flash)|<img src="./img/noname07.png" widht="150" height="150">|  
 |8|열쇠 조각(key_piece)|<img src="./img/noname08.png" widht="150" height="150">|  
 |9|열 수 있는 문(open_door)|<img src="./img/noname09.png" widht="150" height="150">|  
 |10|열 수 없는 문(closed_door)|<img src="./img/noname10.png" widht="150" height="150">|  
@@ -181,10 +181,11 @@
 |행동|영문 명칭|설명|
 |:---:|:---:|:---:|
 |앞으로 이동|front_move|플레이어가 앞으로 이동|
-|뒤로 이동|back_move|플레이어가 앞으로 이동|
-|왼쪽 이동|left_move|플레이어가 앞으로 이동|
-|오른쪽 이동|right_move|플레이어가 앞으로 이동|
+|뒤로 이동|back_move|플레이어가 뒤로 이동|
+|왼쪽 이동|left_move|플레이어가 왼쪽으로 이동|
+|오른쪽 이동|right_move|플레이어가 오른쪽으로 이동|
 |앉기|sit|플레이어 앉기|
+|뛰기|run|플레이어 뛰기|
 |빛 비추기|light_on|플레이어가 빛을 비추기|
 |상호작용|action|플레이어가 아이템을 줍거나, 숨기|
 
@@ -206,8 +207,8 @@
 |가만히 있기|아래로 이동|↓키 입력|
 |가만히 있기|왼쪽으로 이동|←키 입력|
 |가만히 있기|앉기|→키 입력|
-|가만히 있기|플래시 비추기|Ctrl키 입력|
-|가만히 있기|플래시 비추기|Ctrl키 입력|
+|가만히 있기|플래시 비추기|F키 입력|
+|플래시 비추기|플래시 끄기|F키 입력|
 |가만히 있기|상호작용|E키 입력|
 
 2) 오브젝트 이름 : ghost_1
