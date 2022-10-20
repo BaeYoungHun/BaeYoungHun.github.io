@@ -281,4 +281,4 @@
 
 ## 3. 스토리보드
 
-<img src="./img/story.png" widht="400" height="450">
+<img src="./img/stroy.png" widht="400" height="450">
