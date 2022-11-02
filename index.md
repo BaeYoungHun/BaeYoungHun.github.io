@@ -371,8 +371,8 @@ F키를 누르면 플래시를 껐다 켰다 할 수 있다. (100%)
   
 크로스헤어  
 열쇠 수집시 왼쪽상단에 표시  
-<video width="100%" height="100%" controls="controls">
-  <source src="/video/2주차.mp4" type="video/mp4">
+<video width="100%" height="100%" controls="controls">  
+ <source src="/video/2주차.mp4" type="video/mp4">  
 </video>  
 ## 3주차
 ## 4주차
