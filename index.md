@@ -352,7 +352,7 @@
 1) wasd이동 (100%)  
 2) 앉기와 달리기 구현 (100%)  
 작업 내용 : W(앞) S(뒤) A(왼) D(오) 구현과 ctrl시 앉기 shift시 달리기 구현  
-
+##제작결과
 <video width="100%" height="100%" controls="controls">
   <source src="/video/1주차.mp4" type="video/mp4">
 </video>  
@@ -375,6 +375,7 @@ F키를 누르면 플래시를 껐다 켰다 할 수 있다. (100%)
   
 크로스헤어  
 열쇠 수집시 왼쪽상단에 표시  
+##제작결과
 <video width="100%" height="100%" controls="controls">
  <source src="/video/2주차.mp4" type="video/mp4">
 </video>  
