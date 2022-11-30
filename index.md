@@ -459,3 +459,16 @@ Ai 작업(알파버전 기준60%)
 </video>
 <img src="./img/2층.png" widht="450" height="450">
 ## 6주차
+작업명 : 게임클리어, 기록
+
+클리어 조건은 열쇠를 다 모은후에 탈출 하는 방법이다.
+클리어 후 기록에 저장한다.
+기록을 누르면 기존에 등록한 하이스코어 10개를 보여준다.
+작업 내용 : 
+게임 클리어(100%)
+기록 저장(0%)
+ai작업(0%)
+<video width="100%" height="100%" controls="controls">
+ <source src="/video/6주차.mp4" type="video/mp4">
+</video>
+<img src="./img/2층.png" widht="450" height="450">
