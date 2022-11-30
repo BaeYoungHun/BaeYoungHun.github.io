@@ -470,5 +470,4 @@ Ai 작업(알파버전 기준60%)
 ai작업(0%)
 <video width="100%" height="100%" controls="controls">
  <source src="/video/6주차.mp4" type="video/mp4">
-</video>
-<img src="./img/2층.png" widht="450" height="450">
+</video>  
