@@ -342,7 +342,7 @@
 * 기록을 누르면 기존에 등록한 하이스코어 10개를 보여준다.  
 
 # [프로토타입 개발작업 일정 (6주개발)]
-<img src="./img/dlfwjd.png" widht="400" height="600">  
+<img src="./img/dlfwjd.png" widht="200" height="400">  
 
 # [주차별 개발내용]
 ## 1주차
