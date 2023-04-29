@@ -484,7 +484,9 @@ ai작업(0%)
 
 ## 4주차
 오브젝트에 가까이 갈시 UI표시(PC한정)
-
+<img src="./img/ui표시1.PNG" widht="450" height="450">  
+<img src="./img/ui표시2.PNG" widht="450" height="450">  
+<img src="./img/ui표시3.PNG" widht="450" height="450">  
 
 ## 5주차  
 pc버전을 vr로 바꾸는 작업
@@ -494,7 +496,7 @@ vr컨트롤러 모델 추가
 컨트롤러에 플래시 설정  
 <video width="100%" height="100%" controls="controls">
  <source src="/video/2-1.mp4" type="video/mp4">
-</video>
+</video>  
 
 ## 7주차
 vr 왼손엔 손전등모델 추가  
