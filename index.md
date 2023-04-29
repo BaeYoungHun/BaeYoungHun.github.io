@@ -471,3 +471,37 @@ ai작업(0%)
 <video width="100%" height="100%" controls="controls">
  <source src="/video/6주차.mp4" type="video/mp4">
 </video>  
+
+## 1주차  
+작업명: 계획서  
+
+## 2주차 
+작업명: 발표 
+
+## 3주차
+열쇠를 먹으면 Ai 속도가 빨라진다.(100%)    
+열쇠 랜덤스폰 설정(100%)    
+
+## 4주차
+오브젝트에 가까이 갈시 UI표시(PC한정)
+
+
+## 5주차  
+pc버전을 vr로 바꾸는 작업
+
+## 6주차 
+vr컨트롤러 모델 추가  
+컨트롤러에 플래시 설정  
+<video width="100%" height="100%" controls="controls">
+ <source src="/video/2-1.mp4" type="video/mp4">
+</video>
+
+## 7주차
+vr 왼손엔 손전등모델 추가  
+오른손엔 손 모양 모델 추가  
+맵에 머터리얼 추가  
+
+## 8주차
+중간고사 기간  
+
+
