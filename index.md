@@ -502,6 +502,9 @@ vr컨트롤러 모델 추가
 vr 왼손엔 손전등모델 추가  
 오른손엔 손 모양 모델 추가  
 맵에 머터리얼 추가  
+<video width="100%" height="100%" controls="controls">
+ <source src="/video/2-2.mp4" type="video/mp4">
+</video>  
 
 ## 8주차
 중간고사 기간  
