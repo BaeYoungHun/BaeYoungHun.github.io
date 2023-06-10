@@ -509,16 +509,22 @@ vr 왼손엔 손전등모델 추가
 ## 8주차
 중간고사 기간  
 
-
-## 9주차
-
+## 9주차  
+버그 수정
 ## 10주차
-VR버전 앉을때만 키 상호작용 할 수 있도록 변경
+VR버전 앉을때만 키 상호작용 할 수 있도록 변경  
 <img src="./img/keye.PNG" widht="750" height="350">  
+
 ## 11주차
-VR버전 모델
-## 12주차
+VR버전 모델 추가  
+![mon1](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/bcf9921a-ad84-40cf-a02e-3a94985b20f5)  
+![mon2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/b5b365b3-52a2-42c6-b99c-3da055a72baf)
+## 12주차  
+게임 밸런스 수정  
 
-##
+## 13주차
+pc버전 모델 추가  
 
+## 14주차  
+케비넷 침대 숨을시 올바르게 숨을 수 있도록 수정  
 
