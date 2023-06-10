@@ -514,7 +514,7 @@ vr 왼손엔 손전등모델 추가
 
 ## 10주차
 VR버전 앉을때만 키 상호작용 할 수 있도록 변경
-<img src="./img/keye.PNG" widht="750" height="450">  
+<img src="./img/keye.PNG" widht="750" height="350">  
 ## 11주차
 VR버전 모델
 ## 12주차
