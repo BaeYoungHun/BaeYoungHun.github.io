@@ -511,6 +511,7 @@ vr 왼손엔 손전등모델 추가
 
 ## 9주차  
 버그 수정
+
 ## 10주차
 VR버전 앉을때만 키 상호작용 할 수 있도록 변경  
 <img src="./img/keye.PNG" widht="750" height="350">  
@@ -518,13 +519,20 @@ VR버전 앉을때만 키 상호작용 할 수 있도록 변경
 ## 11주차
 VR버전 모델 추가  
 ![mon1](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/bcf9921a-ad84-40cf-a02e-3a94985b20f5)  
-![mon2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/b5b365b3-52a2-42c6-b99c-3da055a72baf)
+![mon2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/b5b365b3-52a2-42c6-b99c-3da055a72baf)  
+
 ## 12주차  
 게임 밸런스 수정  
+<img src="./img/mon1.PNG" widht="750" height="350"> 
+<img src="./img/mon2.PNG" widht="750" height="350">  
 
 ## 13주차
-pc버전 모델 추가  
-
+12주차랑 동일하게 pc버전 모델 추가  
+![mon1](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/bcf9921a-ad84-40cf-a02e-3a94985b20f5)  
+![mon2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/b5b365b3-52a2-42c6-b99c-3da055a72baf)  
 ## 14주차  
-케비넷 침대 숨을시 올바르게 숨을 수 있도록 수정  
+케비넷, 침대 숨을시 올바르게 숨을 수 있도록 수정  
+![bad](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/37828bf3-e7c5-4b58-9f75-011d7025cd44)  
+![cabi](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/91a82d48-51dc-4f48-b415-8fe8342e8981)  
+
 
