@@ -489,7 +489,7 @@ ai작업(0%)
 
 ## 5주차  
 pc버전을 vr로 바꾸는 작업
-
+![5wnck](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/11e57d82-96e5-40c7-a360-4d31d11aa696)
 ## 6주차 
 vr컨트롤러 모델 추가   
 <video width="100%" height="100%" controls="controls">
