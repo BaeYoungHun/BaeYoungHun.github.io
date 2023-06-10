@@ -533,8 +533,10 @@ VR버전 모델 추가
 ![mon2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/b5b365b3-52a2-42c6-b99c-3da055a72baf)  
 
 ## 14주차  
-케비넷, 침대 숨을시 올바르게 숨을 수 있도록 수정  
+VR버전 케비넷, 침대 숨을시 올바르게 숨을 수 있도록 수정  
 ![bad](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/37828bf3-e7c5-4b58-9f75-011d7025cd44)  
 ![cabi](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/91a82d48-51dc-4f48-b415-8fe8342e8981)  
+
+## 15주차
 
 
