@@ -155,7 +155,6 @@
 |13|소리나고 느려지는 함정(soundslow_trap)|<img src="./img/noname15.png" widht="150" height="150">|  
 |14|케비넷(cabinet_hide)|<img src="./img/noname16.png" widht="150" height="150">|  
 |15|침대(bed_hide)|<img src="./img/noname17.png" widht="150" height="150">|  
-|16|의자 밑(chair_hide)|<img src="./img/noname18.png" widht="150" height="150">|  
 |17|창문(window)|<img src="./img/noname19.png" widht="150" height="150">|  
 
 ## 2. 파라미터(속성) 뽑아 보기
@@ -508,5 +507,16 @@ vr 왼손엔 손전등모델 추가
 
 ## 8주차
 중간고사 기간  
+
+
+## 9주차
+
+## 10주차
+
+## 11주차
+
+## 12주차
+
+##
 
 
