@@ -538,5 +538,14 @@ VR버전 케비넷, 침대 숨을시 올바르게 숨을 수 있도록 수정
 ![cabi](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/91a82d48-51dc-4f48-b415-8fe8342e8981)  
 
 ## 15주차
+PC버전 타이머 수정  
+  
+수정 전  
+<img src="./img/timer1.PNG" widht="750" height="350">  
+![timer1](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/15c8e6e4-b34f-4616-8c74-1ac0a45638da)
 
-
+  
+  
+수정 후  
+<img src="./img/timer2.PNG" widht="750" height="350">  
+![timer2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/cb1a1baa-7267-4d1f-b576-946da579974e)
