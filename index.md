@@ -1,3 +1,5 @@
+# [게임 파일 다운로드PC버전](https://drive.google.com/file/d/1MANIeKSX_2HNdLdeeVpMori1AHQNkLmv/view?usp=sharing)
+# [게임 파일 다운로드VR버전](https://drive.google.com/file/d/19mQEhkm7zv4CAd7NYIy_5y6MH3Asgxvh/view?usp=sharing)
 # [목차]  
 1.[프로젝트명 : Hospital Runner](#프로젝트명-hospital-runner)  
 2.[메인컨셉 : 공포](#메인컨셉--공포)  
