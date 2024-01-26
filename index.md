@@ -549,4 +549,8 @@ PC버전 타이머 수정
   
 수정 후 (타이머가 줄어가는 방식)  
 <img src="./img/timer2.PNG" widht="750" height="350">  
-![timer2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/cb1a1baa-7267-4d1f-b576-946da579974e)
+![timer2](https://github.com/BaeYoungHun/BaeYoungHun.github.io/assets/101154099/cb1a1baa-7267-4d1f-b576-946da579974e)  
+
+## 그 이후..
+이지, 노말, 하드 난이도 추가  
+난이도에 따라 열쇠 갯수가 추가 됨  
